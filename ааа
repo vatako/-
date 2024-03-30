@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="css/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <section>
+    <nav>
+      <ul class="menu">
+        <li class="list-item"> обо мне </li>
+        <li class="list-item"> образование </li>
+        <li class="list-item"> опыт работы </li>
+      </ul>
+    </nav>
+    <div id="head-img">
+      <h1>Сайт-портфолио</h1 id="port">
+    </div>
+  </section>
+  <section>
+    <div>
+      <h2>обо мне </h2>
+    </div>
+    <div>
+      <h2>образование </h2>
+    </div>
+    <div>
+      <h2>опыт работы </h2>
+    </div>
+  </section>
+  <script src="js/script.js"></script>
+</body>
+<table>
+  <tr>
+    <th cosplan="2">
+      место учебы и достижения
+    </th>
+  </tr>
+  <tr>
+    <td>школа №....</td>
+    <td>учился</td>
+  </tr>
+</table>
+
+</html>
